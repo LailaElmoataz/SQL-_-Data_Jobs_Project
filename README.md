@@ -10,7 +10,7 @@ The questions I'll try to answer through my analysis are:
 5. What are the most optimal skills to learn?
 
 
-You can find the SQL queries used throughout the project here [here](https://github.com/LailaElmoataz/SQL-_-Data_Jobs_Project/tree/main/project_sql). <br>
+You can find the SQL queries used throughout the project [here](https://github.com/LailaElmoataz/SQL-_-Data_Jobs_Project/tree/main/project_sql). <br>
 This project is part of the [SQL for Data Analysis Course](https://www.lukebarousse.com/sql) by Luke Barousse and Kelly Adams.
 <br><br>
 # Tools & Language
