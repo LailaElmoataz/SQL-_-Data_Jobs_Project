@@ -19,7 +19,7 @@ This project is part of the [SQL for Data Analysis Course](https://www.lukebarou
 * **VS Code**: code editor for developing and executing SQL queries.
 * **Git & Github**: for version control, project tracking and sharing my scripts and analysis.
 <br><br>
-# Analysis
+# Dataset
 This project utilizes four relational tables to explore the data job market landscape. These tables are interconnected and provide a comprehensive view of job postings, associated companies, and required skills.
 
 **Job Postings Table:** This table serves as the core of our analysis, containing detailed information about job postings. It includes columns such as job title, location, posting date, salary, and other relevant attributes that can be used to understand job market trends.
@@ -30,6 +30,8 @@ This project utilizes four relational tables to explore the data job market land
 
 **Skills-Job Link Table**: This table establishes the many-to-many relationship between skills and job postings. It acts as a bridge, allowing us to identify the specific skills required for each job.
 
+# Analysis
+## EDA
 I'll start the analysis with conducting Exploratory Data Analysis (EDA) to better understand our data.
 
 Firstly, let's see how many jobs do we have?
